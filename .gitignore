@@ -1,0 +1,6 @@
+*.tlog
+*.ipch
+*.idb
+.vs/
+*.ipdb
+*.iobj
